@@ -1,2 +1,2 @@
 # Readme from vscode
-update
+Flashcard generator app
